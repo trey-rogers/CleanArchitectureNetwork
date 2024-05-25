@@ -73,16 +73,16 @@
 		D2093C672C022BB5005EBE1E /* StubbedNetwork */ = {
 			isa = PBXGroup;
 			children = (
+				D2093C882C022D64005EBE1E /* AppEndpoints.swift */,
 				D2093C792C022BFA005EBE1E /* Utils */,
 				D2093C782C022BF3005EBE1E /* Presentation */,
 				D2093C772C022BE6005EBE1E /* Domain */,
 				D2093C762C022BDE005EBE1E /* Data */,
 				D2093C682C022BB5005EBE1E /* StubbedNetworkApp.swift */,
 				D2093C6A2C022BB5005EBE1E /* ContentView.swift */,
+				D2093C932C022E16005EBE1E /* ContentView+ViewModel.swift */,
 				D2093C6C2C022BB6005EBE1E /* Assets.xcassets */,
 				D2093C6E2C022BB6005EBE1E /* Preview Content */,
-				D2093C882C022D64005EBE1E /* AppEndpoints.swift */,
-				D2093C932C022E16005EBE1E /* ContentView+ViewModel.swift */,
 			);
 			path = StubbedNetwork;
 			sourceTree = "<group>";
